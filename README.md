@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Concepts & Applications
+#  Machine Learning Concepts & Applications
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-orange.svg)](https://scikit-learn.org/)
@@ -11,7 +11,7 @@ This repository is designed as a self-documenting workflow, with detailed Jupyte
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 1. [Deep Learning: Image Recognition](#1-deep-learning-image-recognition-mlp-vs-cnn)
 2. [Scikit-Learn: kNN & Decision Tree Regressor](#2-scikit-learn-knn--decision-tree-regressor)
 3. [Stellar Classification: Algorithmic Benchmarking](#3-stellar-classification-algorithmic-benchmarking)
@@ -22,7 +22,7 @@ This repository is designed as a self-documenting workflow, with detailed Jupyte
 
 ---
 
-## 🔬 Projects Overview
+##  Projects Overview
 
 ### 1. Deep Learning: Image Recognition (MLP vs. CNN)
 **Directory:** [`Deep_Learning/`](./Deep_Learning) | **Dataset:** CIFAR-10
@@ -67,7 +67,7 @@ This repository is designed as a self-documenting workflow, with detailed Jupyte
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python 3.8+
 * **Deep Learning Framework:** PyTorch, Torchvision, Fast.ai (optional integration)
 * **Machine Learning:** Scikit-Learn
@@ -77,12 +77,12 @@ This repository is designed as a self-documenting workflow, with detailed Jupyte
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-github-repo-url>
-   cd Machine-Learning-main
+   git clone https://github.com/RealSagarBhandari/Machine-Learning
+   cd Machine-Learning
    ```
 
 2. **Install Dependencies:**
